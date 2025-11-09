@@ -1,0 +1,29 @@
+SUPERMARKET PL/SQL PROJECT
+==========================
+
+PROJECT OVERVIEW:
+- Created a supermarket billing system
+- Demonstrates all required PL/SQL concepts
+- Code executed successfully in Oracle SQL Developer
+
+PL/SQL CONCEPTS DEMONSTRATED:
+
+1. RECORDS:
+   - Product_Record with id, name, price fields
+   - Groups related data together
+
+2. COLLECTIONS (All 3 Types):
+   - VARRAY: Fixed categories (Food, Drinks, Snacks)
+   - Nested Table: Shopping cart items
+   - Associative Array: Price lookup by product name
+
+3. GOTO STATEMENTS:
+   - Discount calculation based on total amount
+   - Jumps to different code sections
+
+PROJECT FILES:
+- supermarket_simple.sql (main PL/SQL code)
+- Screenshots of execution
+- This documentation
+
+Fatime Dadi Wardougou 25858
