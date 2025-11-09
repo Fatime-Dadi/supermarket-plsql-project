@@ -19,6 +19,6 @@ A complete PL/SQL implementation of a supermarket inventory and billing system d
 
 ## Results
 All PL/SQL concepts successfully implemented and tested.
-###<img width="471" height="431" alt="run_code" src="https://github.com/user-attachments/assets/c3ea7073-2b93-450a-80d2-51056f5ae264" />
+### <img width="471" height="431" alt="run_code" src="https://github.com/user-attachments/assets/c3ea7073-2b93-450a-80d2-51056f5ae264" />
 
 Done by:  Fatime Dadi Wardougou 25858
